@@ -1,0 +1,42 @@
+{
+  "identifier": "STOREKIT_CONFIG",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "SUBGROUP1",
+      "localizations": [],
+      "name": "Baggly Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "SUB1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlimited lists, templates & photos",
+              "displayName": "Baggly Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.bagtrack.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Baggly Pro",
+          "subscriptionGroupID": "SUBGROUP1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
